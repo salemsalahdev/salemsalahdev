@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Expo+Arabic&weight=900&size=50&pause=1000&color=1483FF&background=FFFFFF00&center=true&vCenter=true&random=true&width=1000&height=100&lines=HI+%2C+I'M+SALEM+SALAH;Web+%26+Mobile+Developer)](https://git.io/typing-svg)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=salemsalahdev&label=Profile%20views&color=0e75b6&style=flat" alt="salemsalahdev" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=salemsalahdev&label=Profile%20views&color=0e75b6&style=flat"alt="salemsalahdev"/>
+</p> 
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salemsalahdev" alt="salemsalahdev"/></a></p>
+
 💬 **Ask me about**
 - Clean Code & Best Practices
 
@@ -104,7 +104,26 @@
 
 Icons : <a href="https://skill-icons-web.vercel.app/" target="_blank">Skill Icons from Vercel</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=salemsalahdev&theme=dark)](https://git.io/streak-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=salemsalahdev&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=salemsalahdev&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salemsalahdev&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=salemsalahdev&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=salemsalahdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=salemsalahdev&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=salemsalahdev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
