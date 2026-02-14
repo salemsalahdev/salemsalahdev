@@ -4,11 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=salemsalahdev&label=Profile%20views&color=0e75b6&style=flat"alt="salemsalahdev"/>
 </p> 
 
-
-💬 **Ask me about**
+ **Ask me about**
 - Clean Code & Best Practices
 
-📫 **How to reach me** 
+**How to reach me** 
 **salembawadi57@gmail.com**
 
 
